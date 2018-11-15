@@ -1,6 +1,6 @@
 # PEAKachu Errors
 
-## Duplicated Row Names
+## No folder with .gff files
 
 ```
 ** Initializing replicons and reading annotations from .gff files if present...
